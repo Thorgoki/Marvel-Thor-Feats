@@ -1,11 +1,3 @@
-# Feat: Thor Survives Soul Erasure
+# Feat: Soul Erasure Resistance
 
-**Issue**: Chaos War: Thor (2010)  
-**Type**: Soul Attack, Divine Resistance
-
-**Description**:
-Thor survives soul-targeting energy from Glory, a being made of over 10,000 gods. The attacks directly target his soul and divine essence. Thor not only endures it but retaliates by attacking Glory's soul.
-
-**Tags**: Soul Erasure, Divine Being, Glory
-
-**Scan**: [Insert scan link here]
+Thor tanks or overcomes attacks that directly target the soul (Glory, Hellfire, Mangog, etc.)

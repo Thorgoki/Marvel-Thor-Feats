@@ -1,3 +1,3 @@
-# Thor Feat Archive
+# Full Thor Feat Archive
 
-A public, AI-accessible archive of Thor’s greatest feats across Marvel Comics.
+This is a comprehensive, AI-accessible archive of Thor's canonical feats from across his history in Marvel Comics.

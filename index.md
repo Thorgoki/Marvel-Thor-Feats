@@ -1,15 +1,21 @@
-# Thor Feat Archive
+# Welcome to the Thor Feat Archive
 
-This archive catalogs Thor’s canonical feats across Marvel Comics.
-All scans are cited by issue and page, and categorized by feat type.
+Explore Thor's greatest feats by issue or by type. Categorized and sourced for reference and analysis.
 
-### 🔥 Feat Categories
-- [Narrative Erasure](feats/narrative_erasure.md)
-- [Soul Erasure](feats/soul_erasure.md)
-- [Spiritual Destruction](feats/spiritual_destruction.md)
-- [Omnitemporal Erasure](feats/omnitemporal_erasure.md)
+## 📚 Featured Arcs
+- Immortal Thor #1–25
+- Godzilla vs Thor (2025)
+- Cates' Thor (2020–2023)
+- Chaos War: Thor
+- Rune King Thor
+- Blood and Thunder
+- Classic Thor (1966–1998)
 
-### 📚 Key Issues
-- [Immortal Thor #25](issues/immortal_thor_25.md)
-- [Chaos War: Thor](issues/chaos_war_thor.md)
-- [Thor: God of Thunder #11–12](issues/thor_godbomb_arc.md)
+## 🔍 Feat Categories
+- Narrative Resistance
+- Metafictional Survival
+- Soul Erasure
+- Conceptual Attacks
+- Multiversal Travel
+- Omnitemporal Survival
+- Speed / Lightning / Strength
