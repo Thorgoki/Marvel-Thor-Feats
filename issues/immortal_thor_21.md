@@ -1,4 +1,9 @@
 # Immortal Thor #21
 
-- Placeholder for feats from Immortal Thor #21.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Trial of myths continues. Loki and Thor build toward sacrificial finale.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

@@ -1,4 +1,9 @@
 # Immortal Thor #4
 
-- Placeholder for feats from Immortal Thor #4.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor battles Utgard-Loki's illusions and begins rejecting false poetic narratives. Enters mythic recursion.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

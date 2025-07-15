@@ -1,4 +1,9 @@
 # Immortal Thor #10
 
-- Placeholder for feats from Immortal Thor #10.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor smashes Roxxon Thor and breaks the imposed narrative. Survives metafictional overwrite.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

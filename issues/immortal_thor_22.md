@@ -1,4 +1,9 @@
 # Immortal Thor #22
 
-- Placeholder for feats from Immortal Thor #22.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor enters realm of flowing metaphors. Narrative transcendence implied.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

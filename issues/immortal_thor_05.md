@@ -1,4 +1,9 @@
 # Immortal Thor #5
 
-- Placeholder for feats from Immortal Thor #5.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor defeats the giant through the power of metaphor and force of myth. Mythopoetic combat. Victory by embodying the storm.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

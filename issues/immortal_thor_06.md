@@ -1,4 +1,9 @@
 # Immortal Thor #6
 
-- Placeholder for feats from Immortal Thor #6.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor invokes the Raido rune. Solves Loki’s riddle. Reforges himself and returns from Utgard. Metaphysical trial ends.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

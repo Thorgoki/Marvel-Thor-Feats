@@ -1,4 +1,9 @@
 # Immortal Thor #18
 
-- Placeholder for feats from Immortal Thor #18.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor and his allies withstand rewritten narrative space. Myth becomes battlefield.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

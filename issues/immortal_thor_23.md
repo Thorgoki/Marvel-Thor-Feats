@@ -1,4 +1,9 @@
 # Immortal Thor #23
 
-- Placeholder for feats from Immortal Thor #23.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor transcends poetry and prose. Conceptual storytelling fully visualized.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

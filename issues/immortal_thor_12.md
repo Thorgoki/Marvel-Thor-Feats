@@ -1,4 +1,9 @@
 # Immortal Thor #12
 
-- Placeholder for feats from Immortal Thor #12.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor fights the Skald, whose story magic threatens reality. Thor embraces poetic strength.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy

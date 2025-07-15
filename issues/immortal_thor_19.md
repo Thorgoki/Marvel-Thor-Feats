@@ -1,4 +1,9 @@
 # Immortal Thor #19
 
-- Placeholder for feats from Immortal Thor #19.
-- Add narrative, metaphysical, or combat feats below with page references once reviewed.
+## 📖 Summary
+Thor defies literal destiny as his story is threatened. Prepares to be the Gate.
+
+## 🔹 Feats (To Be Expanded)
+- [ ] Add page-specific breakdowns and scans
+- [ ] Link to feat categories
+- [ ] Verify against high-tier entries to avoid redundancy
